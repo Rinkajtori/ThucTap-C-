@@ -1,0 +1,36 @@
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csprojResolveAssemblyReference.cache
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Form1.resources
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Login.resources
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Properties.Resources.resources
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.GenerateResource.Cache
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Staff.resources
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.QuayHang.resources
+E:\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+E:\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+E:\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csprojResolveAssemblyReference.cache
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Properties.Resources.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.QuayHang.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.GenerateResource.Cache
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.CuaHang.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.HoaDon.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.KhachHang.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.NhaCC.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.NhapHang.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.XuatHang.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.DangKy.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.quanLyTaiKhoan.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.NhanVien.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.DangNhap.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.CaNhan.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.MainMenu.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Form1.resources
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\RdlCompile.cache
+E:\QuanLySieuThi\QuanLySieuThi\obj\Debug\RdlCompile.compiled
